@@ -1,5 +1,7 @@
-docs: /docs/
-api: /api/
-news: /news/
-plugins: /plugins/
-themes: /themes/
+bai-viet: /bai-viet/
+tin-tuc: /tin-tuc/
+# docs: /docs/
+# api: /api/
+# news: /news/
+# plugins: /plugins/
+# themes: /themes/
