@@ -1,16 +1,16 @@
-title: Hexo
+title: Việc làm
 subtitle: "Tìm việc làm phù hợp nhanh chóng, hiệu quả."
 description: "Kinh nghiệm và chia sẻ khi tìm việc làm."
-author: Hexo
+author: Vu Nguyen
 language: en
 timezone: UTC
 
-url: https://hexo.io
+url: https://www.123vieclam.com
 root: /
-permalink: news/:year/:month/:day/:title/
+permalink: news/:title/
 archive_dir: news
 code_dir: downloads/code
-new_post_name: :year-:month-:day-:title.md # File name of new posts
+new_post_name: :title.md # File name of new posts
 post_asset_folder: true
 per_page: 0
 
