@@ -12,11 +12,13 @@
     <div class="inner">
       {{ page.content }}
       <ul id="intro-cmd-wrap">
-        <li class="intro-cmd-item">npm install hexo-cli -g</li>
-        <li class="intro-cmd-item">hexo init blog</li>
-        <li class="intro-cmd-item">cd blog</li>
-        <li class="intro-cmd-item">npm install</li>
-        <li class="intro-cmd-item">hexo server</li>
+        <li class="intro-cmd-item">Liệt kê các trang tuyển dụng và đánh giá</li>
+        <li class="intro-cmd-item">Hướng dẫn cách tìm kiếm và lọc công việc</li>
+        <li class="intro-cmd-item">Hướng dẫn cách tìm hiểu thêm và nhà tuyển dụng</li>
+        <li class="intro-cmd-item">Hướng dẫn cách viết đơn xin việc gây ấn tượng</li>
+        <li class="intro-cmd-item">Hướng dẫn cách nộp đơn và giao tiếp với nhà tuyển dụng</li>
+        <li class="intro-cmd-item">Hướng dẫn cách chọn công việc phù hợp</li>
+        <li class="intro-cmd-item">Hướng dẫn cách lên kế hoạch nghề nghiệp cụ thể</li>
       </ul>
       <div id="intro-get-started-wrap">
         <a href="docs/" id="intro-get-started-link">{{ __('index.get_started') }}</a>
